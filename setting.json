@@ -1,4 +1,4 @@
 {
-  hidden : false,
+  secret : false,
   key : 12345678
 }
