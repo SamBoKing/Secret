@@ -1,6 +1,6 @@
 {
   group : [
-    { groupId : '1', title : '지상파',  },
+    { groupId : '1', title : '지상파' },
     { groupId : '5', title : '종편' },
     { groupId : '2', title : '케이블' },
     { groupId : '3', title : '스카이라이프' },
