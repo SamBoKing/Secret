@@ -1,27 +1,60 @@
 {
   group : [
-    { groupId : '1', title : '지상파' },
-    { groupId : '5', title : '종편' },
-    { groupId : '2', title : '케이블' },
-    { groupId : '3', title : '스카이라이프' },
-    { groupId : '9', title : '해외위성' }
-  ],
-  class : [
-    { classId : '25', title : '지상파' },
-    { classId : '47', title : '종합편성' },
-    { classId : '27', title : '드라마' },
-    { classId : '26', title : '영화', selected : true },
-    { classId : '28', title : '연예/오락' },
-    { classId : '19', title : '스포츠/게임' },
-    { classId : '34', title : '어린이' },
-    { classId : '38', title : '쇼핑' },
-    { classId : '31', title : '뉴스/경제' },
-    { classId : '30', title : '레저' },
-    { classId : '36', title : '여성/패션' },
-    { classId : '35', title : '해외' },
-    { classId : '39', title : '종교' },
-    { classId : '37', title : '공공/정보' },
-    { classId : '33', title : '교육' },
-    { classId : '32', title : '다큐' }
+    { 
+      groupId : '1', 
+      title : '지상파' 
+    },
+    { 
+      groupId : '5', 
+      title : '종편'
+    },
+    { 
+      groupId : '2', 
+      title : '케이블',
+      class : [
+        { classId : '25', title : '지상파' },
+        { classId : '47', title : '종합편성' },
+        { classId : '27', title : '드라마' },
+        { classId : '26', title : '영화', selected : true },
+        { classId : '28', title : '연예/오락' },
+        { classId : '19', title : '스포츠/게임' },
+        { classId : '34', title : '어린이' },
+        { classId : '38', title : '쇼핑' },
+        { classId : '31', title : '뉴스/경제' },
+        { classId : '30', title : '레저' },
+        { classId : '36', title : '여성/패션' },
+        { classId : '35', title : '해외' },
+        { classId : '39', title : '종교' },
+        { classId : '37', title : '공공/정보' },
+        { classId : '33', title : '교육' },
+        { classId : '32', title : '다큐' }
+      ]
+    },
+    { 
+      groupId : '3', 
+      title : '스카이라이프',
+      class : [
+        { classId : '25', title : '지상파' },
+        { classId : '47', title : '종합편성' },
+        { classId : '27', title : '드라마' },
+        { classId : '26', title : '영화', selected : true },
+        { classId : '28', title : '연예/오락' },
+        { classId : '19', title : '스포츠/게임' },
+        { classId : '34', title : '어린이' },
+        { classId : '38', title : '쇼핑' },
+        { classId : '31', title : '뉴스/경제' },
+        { classId : '30', title : '레저' },
+        { classId : '36', title : '여성/패션' },
+        { classId : '35', title : '해외' },
+        { classId : '39', title : '종교' },
+        { classId : '37', title : '공공/정보' },
+        { classId : '33', title : '교육' },
+        { classId : '32', title : '다큐' }
+      ]
+    },
+    { 
+      groupId : '9', 
+      title : '해외위성'
+    }
   ]
 }
