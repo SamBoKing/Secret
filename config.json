@@ -31,7 +31,7 @@
     },
     { 
       groupId : '3', 
-      title : 'SKY라이프',
+      title : '스카이라이프',
       class : [
         { classId : '25', title : '지상파' },
         { classId : '47', title : '종합편성' },
