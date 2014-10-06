@@ -1,0 +1,32 @@
+{
+  "Category" : [
+    {
+      "title" : "웹툰"
+      "Group" : [
+        {
+          "title" : "네이버"
+          "Web" : [
+            {
+              "title" : "네이버주소",
+              "url" : "www.naver.com"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title" : "쇼핑"
+      "Group" : [
+        {
+          "title" : "지마켓":
+          "Web" : [
+            {
+              "title" : "지마켓주소",
+              "url" : "www.naver.com"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
