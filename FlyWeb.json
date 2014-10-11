@@ -9,6 +9,23 @@
             {
               "title" : "네이버주소",
               "url" : "www.naver.com"
+            },
+            {
+              "title" : "네이버주소",
+              "url" : "www.naver.com"
+            }
+          ]
+        },
+        {
+          "title" : "네이버",
+          "Web" : [
+            {
+              "title" : "네이버주소",
+              "url" : "www.naver.com"
+            },
+            {
+              "title" : "네이버주소",
+              "url" : "www.naver.com"
             }
           ]
         }
