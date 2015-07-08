@@ -1,12 +1,12 @@
 {
-  "Category" : [
+  "Categorys" : [
     {
       "id" : "0",
       "title" : "웹툰",
-      "Group" : [
+      "Groups" : [
         {
           "title" : "네이버",
-          "Web" : [
+          "Webs" : [
             {
               "title" : "네이버주소",
               "url" : "www.naver.com"
@@ -24,7 +24,7 @@
         },
         {
           "title" : "다음",
-          "Web" : [
+          "Webs" : [
             {
               "title" : "다음주소",
               "url" : "www.daum.com"
@@ -41,7 +41,7 @@
         },
         {
           "title" : "구글",
-          "Web" : [
+          "Webs" : [
             {
               "title" : "구글주소",
               "url" : "www.google.com"
@@ -61,10 +61,10 @@
     {
       "id" : "1",
       "title" : "쇼핑",
-      "Group" : [
+      "Groups" : [
         {
           "title" : "지마켓",
-          "Web" : [
+          "Webs" : [
             {
               "title" : "지마켓주소",
               "url" : "www.naver.com"
@@ -73,7 +73,7 @@
         },
         {
           "title" : "11번가",
-          "Web" : [
+          "Webs" : [
             {
               "title" : "11번가주소",
               "url" : "www.naver.com"
