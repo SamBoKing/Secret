@@ -25,16 +25,16 @@
           "title" : "다음",
           "Webs" : [
             {
-              "title" : "다음주소",
-              "url" : "www.daum.com"
+              "title" : "다음",
+              "url" : "http://m.daum.net"
             },
             {
-              "title" : "다음주소2",
-              "url" : "www.daum.com"
+              "title" : "어쿠스틱라이프",
+              "url" : "http://m.webtoon.daum.net/m/webtoon/view/acoustic"
             },
             {
-              "title" : "다음주소3",
-              "url" : "www.daum.com"
+              "title" : "웹툰리그",
+              "url" : "http://m.webtoon.daum.net/m/webtoon/view/league"
             }
           ]
         },
