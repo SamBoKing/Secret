@@ -8,16 +8,16 @@
           "title" : "네이버",
           "Webs" : [
             {
-              "title" : "네이버주소",
-              "url" : "www.naver.com"
+              "title" : "네이버",
+              "url" : "http://m.naver.com"
             },
             {
-              "title" : "네이버주소2",
-              "url" : "www.naver.com"
+              "title" : "아파트투유",
+              "url" : "http://m.apt2you.com"
             },
             {
-              "title" : "네이버주소3",
-              "url" : "www.naver.com"
+              "title" : "웹툰",
+              "url" : "http://comic.naver.com/webtoon/weekday.nhn"
             }
           ]
         },
@@ -43,15 +43,11 @@
           "Webs" : [
             {
               "title" : "구글주소",
-              "url" : "www.google.com"
+              "url" : "https://www.google.co.kr/?gws_rd=ssl"
             },
             {
-              "title" : "구글주소2",
-              "url" : "www.google.com"
-            },
-            {
-              "title" : "구글주소3",
-              "url" : "www.google.com"
+              "title" : "구글메일",
+              "url" : "https://mail.google.com"
             }
           ]
         }
@@ -66,7 +62,7 @@
           "Webs" : [
             {
               "title" : "지마켓주소",
-              "url" : "www.naver.com"
+              "url" : "http://mobile.gmarket.co.kr"
             }
           ]
         },
@@ -75,7 +71,7 @@
           "Webs" : [
             {
               "title" : "11번가주소",
-              "url" : "www.naver.com"
+              "url" : "http://m.11st.co.kr"
             }
           ]
         }
