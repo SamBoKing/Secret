@@ -1,5 +1,12 @@
 # FlyGps About
 
+## Update
+### FlyGps 4.0.5 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.5.apk))
+```
+* Google Search, Naver Search, Coordinates Search Add
+* Bug fixes
+```
+
 ## Bug Information
 * This phenomenon is being shut down when running on a particular machine. We will fix as soon as possible.
 * Service startup pop- icon , there is a joystick problem disappears . This part also to the rights issue will be corrected as soon as possible.
@@ -11,7 +18,7 @@
 Settings - About phone - Software - Android version
 
 - Developer mode -
-1. Settings - About phone - Software - Build number (7-click ) - enable developer mode
+1. Settings - About phone - Software - Build number (7-click) - enable developer mode
 2. Settings - Developer Options - Select or mock locations Allow mock locations apps (FlyGps)
 ```
 
