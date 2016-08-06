@@ -1,7 +1,7 @@
 # FlyGps 사용법
 
 ## 업데이트
-FlyGps 4.0.5 ([다운로드](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.5.apk))
+### FlyGps 4.0.5 ([다운로드](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.5.apk))
 ```
 * 구글검색, 네이버검색, 좌표검색 추가
 * 각종버그 수정
