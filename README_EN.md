@@ -20,6 +20,9 @@ Settings - About phone - Software - Android version
 - Developer mode -
 1. Settings - About phone - Software - Build number (7-click) - enable developer mode
 2. Settings - Developer Options - Select or mock locations Allow mock locations apps (FlyGps)
+
+- Joystick Auto Hide Options -
+1. Settings - Developer Options - Don't keep activities(Apps) - Off 
 ```
 
 ## How to use
