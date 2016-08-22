@@ -4,6 +4,7 @@
 ### FlyGps 4.0.5 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.5.apk))		
 ```		
 * Google Search, Naver Search, Coordinates Search Add		
+* Joystick Auto Hide fixes -> Summary Information Read
 * Bug fixes		
 ```
 
