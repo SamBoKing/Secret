@@ -4,13 +4,17 @@
 ### FlyGps 4.0.5 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.5.apk))		
 ```		
 * Google Search, Naver Search, Coordinates Search Add		
-* Joystick Auto Hide fixes -> Summary Information Read
+* Joystick problem disappears -> Bug Information Read
 * Bug fixes		
 ```
 
 ## Bug Information
-* This phenomenon is being shut down when running on a particular machine. We will fix as soon as possible.
 * Service startup pop- icon , there is a joystick problem disappears . This part also to the rights issue will be corrected as soon as possible.
+```
+Settings - Developer Options - Don't keep activities(Apps) - Off 
+
+Set Developer Options -> Summary Information Read
+```
 
 ## Summary Information
 * Joystick ( Pokemon ) mode only works normally with Android version 6.0 ( masimelrowoo ) or later.
@@ -21,9 +25,6 @@ Settings - About phone - Software - Android version
 - Developer mode -
 1. Settings - About phone - Software - Build number (7-click) - enable developer mode
 2. Settings - Developer Options - Select or mock locations Allow mock locations apps (FlyGps)
-
-- Joystick Auto Hide Options -
-1. Settings - Developer Options - Don't keep activities(Apps) - Off 
 ```
 
 ## How to use
