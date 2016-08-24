@@ -17,7 +17,7 @@ Set Developer Options -> Summary Information Read
 ```
 
 ## Summary Information
-* Joystick ( Pokemon ) mode only works normally with Android version 6.0 ( masimelrowoo ) or later.
+* Joystick mode only works normally with Android version 6.0 ( masimelrowoo ) or later.
 ```
 - Version check -
 Settings - About phone - Software - Android version
