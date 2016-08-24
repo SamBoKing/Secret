@@ -1,7 +1,7 @@
 # FlyGps About
 
 ## Update		
-### FlyGps 4.0.5 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.5.apk))		
+### FlyGps 4.0.6 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.6.apk))		
 ```		
 * Google Search, Naver Search, Coordinates Search Add		
 * Joystick problem disappears -> Bug Information Read
