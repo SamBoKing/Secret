@@ -28,5 +28,5 @@ Settings - About phone - Software - Android version
 ```
 
 ## TIP
-1. Icon, you can drag around sikilsu move the joystick position.
-2. Icon, you long click the joystick will disappear from the screen.
+1. you can drag around sikilsu move the Icon and joystick position.
+2. you long click will Icon disappear from the screen.
