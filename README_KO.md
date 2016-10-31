@@ -1,6 +1,9 @@
 # FlyGps 사용법
 
-## 업데이트
+## 최신 업데이트
+### FlyGps 5.0.0
+
+## 이전 업데이트
 ### FlyGps 4.0.6 ([다운로드](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.6.apk))
 ```
 * 구글검색, 네이버검색, 좌표검색 추가
