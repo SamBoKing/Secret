@@ -1,6 +1,12 @@
 # FlyGps About
 
-## Update		
+## Current Update		
+### FlyGps 5.0.0
+```		
+* The joystick has been shut down. You can not use the joystick mode.
+```
+
+## Prev Update		
 ### FlyGps 4.0.6 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.6.apk))		
 ```		
 * Google Search, Naver Search, Coordinates Search Add		
