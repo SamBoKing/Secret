@@ -7,8 +7,8 @@
 * The joystick has been shut down. You can not use the joystick mode.
 
 ```
-## Prev Update		
-### FlyGps 4.0.6 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.6.apk))		
+## Previous Update		
+### FlyGps 4.0.7 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.7.apk))		
   ```		
   * Google Search, Naver Search, Coordinates Search Add		
   * Joystick problem disappears -> Bug Information Read
