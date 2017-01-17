@@ -1,18 +1,10 @@
 # FlyGps 사용법
 
 ## 최신 업데이트
-### FlyGps 5.0.0
-```
-
-* 조이스틱 서비스가 종료되었습니다. 조이스틱 모드를 사용하실 수 없습니다.
-
-```
-## 이전 업데이트
-### FlyGps 4.0.7 ([다운로드](https://github.com/SamBoKing/Secret/raw/master/FlyGps_4.0.7.apk))
+### FlyGps 5.0.2 ([다운로드](https://github.com/SamBoKing/Secret/raw/master/FlyGps_5.0.2.apk))
   ```
-  * 구글검색, 네이버검색, 좌표검색 추가
-  * 각종버그 수정
-  * 루나폰 종료버그 수정
+  * 이동모드 활성
+  * 각종버그 수정
  ```
  
  ## 버그정보
