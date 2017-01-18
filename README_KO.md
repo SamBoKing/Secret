@@ -1,10 +1,10 @@
 # FlyGps 사용법
-
 ## 최신 업데이트
-### FlyGps 5.0.2 ([다운로드](https://github.com/SamBoKing/Secret/raw/master/FlyGps_5.0.2.apk))
+### FlyGps 5.0.3 ([다운로드](https://github.com/SamBoKing/Secret/raw/master/FlyGps_5.0.3.apk))
   ```
   * 이동모드 활성
   * 각종버그 수정
+  * 권한정보 
  ```
  
  ## 버그정보
