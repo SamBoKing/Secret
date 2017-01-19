@@ -1,7 +1,7 @@
 # FlyGps About
 
 ## Current Update		
-### FlyGps 5.0.4 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_5.0.4.apk))		
+### FlyGps 5.0.5 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_5.0.5.apk))		
   ```		
   * Move Mode	
   * Bug fixes
