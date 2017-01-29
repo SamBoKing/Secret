@@ -5,6 +5,7 @@
   ```		
   * Move Mode	
   * Bug fixes
+  * Move mode works only on ** Android version 6.0 (marshmallow) ** or later.
  ```
 ## Frequently Asked Questions
 * How do I set Developer mode?
