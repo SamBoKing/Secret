@@ -1,3 +1,5 @@
+# * Not available for Android security update *
+
 # FlyGps About
 
 ## Current Update		
