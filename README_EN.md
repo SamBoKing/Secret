@@ -3,7 +3,7 @@
 # FlyGps About
 
 ## Current Update		
-### FlyGps 6.0.3 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_6.0.3.apk))		
+### FlyGps 6.0.5 ([Download](https://github.com/SamBoKing/Secret/raw/master/FlyGps_6.0.5.apk))		
   ```		
   * Move Mode	
   * Bug fixes
