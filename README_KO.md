@@ -1,7 +1,7 @@
 # * 안드로이드 보안업데이트시 사용이 불가합니다. *
 # FlyGps 사용법
 ## 최신 업데이트
-### FlyGps 6.0.3 ([다운로드](https://github.com/SamBoKing/Secret/raw/master/FlyGps_6.0.3.apk))
+### FlyGps 6.0.5 ([다운로드](https://github.com/SamBoKing/Secret/raw/master/FlyGps_6.0.5.apk))
   ```
   * 이동모드 활성
   * 각종버그 수정
